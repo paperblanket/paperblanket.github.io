@@ -56,11 +56,11 @@ hr {
   display: block;
 }
 .instagram {
-  background-color: #c13584;
-  border: 2px solid #890851;
+  background-color: #E1306C;
+  border: 2px solid #9F0136;
 }
 .instagram:hover {
-  background-color: #D2569C;
+  background-color: #E75284;
 }
 .twitter {
   background-color: #1DA1F2;
