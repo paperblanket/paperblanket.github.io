@@ -69,6 +69,13 @@ hr {
 .twitter:hover {
   background-color: #73C4F4;
 }
+.youtube {
+  background-color: #FF3333;
+  border: 2px solid #E70707;
+}
+.youtube:hover {
+  background-color: #FF5858;
+}
 .patreon {
   background-color: #F96854;
   border: 2px solid #7D342A;
