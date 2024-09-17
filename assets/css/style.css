@@ -62,11 +62,11 @@ hr {
 .instagram:hover {
   background-color: #D2569C;
 }
-.twitter {
+.x {
   background-color: #1DA1F2;
   border: 2px solid #036EAE;
 }
-.twitter:hover {
+.x:hover {
   background-color: #73C4F4;
 }
 .youtube {
@@ -123,5 +123,12 @@ hr {
   border: 2px solid #290F94;
 }
 .mastodon:hover {
+  background-color: #735AD7;
+}
+.bluesky {
+  background-color: #0085FF;
+  border: 2px solid #005FB5;
+}
+.bluesky:hover {
   background-color: #735AD7;
 }
