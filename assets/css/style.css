@@ -146,3 +146,10 @@ hr {
 .tiktok:hover {
   background-color: #82F7F3;
 }
+.ko-fi {
+  background-color: #13C3FF;
+  border: 2px solid #0093C4;
+}
+.ko-fi:hover {
+  background-color: #70DAFD;
+}
