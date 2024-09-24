@@ -139,3 +139,10 @@ hr {
 .buymeacoffee:hover {
   background-color: #FFEA64;
 }
+.tiktok {
+  background-color: #25F4EE;
+  border: 2px solid #00CCC4;
+}
+.tiktok:hover {
+  background-color: #82F7F3;
+}
