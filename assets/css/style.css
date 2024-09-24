@@ -130,5 +130,12 @@ hr {
   border: 2px solid #005FB5;
 }
 .bluesky:hover {
-  background-color: #735AD7;
+  background-color: #389FFC;
+}
+.buymeacoffee {
+  background-color: #FFDD00;
+  border: 2px solid #C6AB00;
+}
+.buymeacoffee:hover {
+  background-color: #FFEA64;
 }
