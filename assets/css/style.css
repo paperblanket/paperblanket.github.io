@@ -41,7 +41,7 @@ hr {
 .buttons_div {
   max-width: 500px;
   margin: auto;
-  opacity: 0.1;
+  opacity: 0.5;
 }
 .buttons {
   border-width: 2px;
