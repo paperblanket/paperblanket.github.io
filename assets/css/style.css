@@ -57,10 +57,10 @@ hr {
 }
 .instagram {
   background-color: rgba(193, 53, 132, 1.0);
-  border: 2px solid #890851;
+  border: 2px solid rgba(137, 8, 81, 1.0);
 }
 .instagram:hover {
-  background-color: #D2569C;
+  background-color: rgba(210, 86, 156, 1.0);
 }
 .x {
   background-color: #1DA1F2;
