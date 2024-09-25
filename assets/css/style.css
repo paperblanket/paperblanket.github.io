@@ -63,18 +63,18 @@ hr {
   background-color: rgba(210, 86, 156, 1.0);
 }
 .x {
-  background-color: #1DA1F2;
-  border: 2px solid #036EAE;
+  background-color: rgba(29, 163, 242, 1.0);
+  border: 2px solid rgba(3, 110, 174, 1.0);
 }
 .x:hover {
-  background-color: #73C4F4;
+  background-color: rgba(115, 196, 244, 1.0);
 }
 .youtube {
-  background-color: #FF3333;
-  border: 2px solid #E70707;
+  background-color: rgba(255, 51, 51, 1.0);
+  border: 2px solid rgba(178, 0, 0, 1.0);
 }
 .youtube:hover {
-  background-color: #FF5858;
+  background-color: rgba(255, 130, 130, 1.0);
 }
 .patreon {
   background-color: #F96854;
