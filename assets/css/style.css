@@ -77,18 +77,18 @@ hr {
   background-color: rgba(255, 130, 130, 1.0);
 }
 .patreon {
-  background-color: #F96854;
-  border: 2px solid #7D342A;
+  background-color: rgba(249, 103, 84, 1.0);
+  border: 2px solid rgba(184, 38, 19, 1.0);
 }
 .patreon:hover {
-  background-color: #FF8979;
+  background-color: rgba(255, 175, 164, 1.0)
 }
 .pinterest {
-  background-color: #BD081C;
-  border: 2px solid #73000D;
+  background-color: rgb(189, 8, 29, 1.0);
+  border: 2px solid rgba(115, 0, 13, 1.0);
 }
 .pinterest:hover {
-  background-color: #E42238;
+  background-color: rgba(240, 80, 99, 1.0);
 }
 .ko-fi {
   background-color: #FBAA19;
