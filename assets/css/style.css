@@ -140,18 +140,18 @@ hr {
   background-color: rgba(255, 223, 113, 1.0);
 }
 .tiktok {
-  background-color: #25F4EE;
-  border: 2px solid #00CCC4;
+  background-color: rgba(37, 244, 236, 1.0);
+  border: 2px solid rgba(0, 204, 196, 1.0);
 }
 .tiktok:hover {
-  background-color: #82F7F3;
+  background-color: rgba(130, 247, 243, 1.0);
 }
 .ko-fi {
-  background-color: #13C3FF;
-  border: 2px solid #0093C4;
+  background-color: rgba(19, 196, 255, 1.0);
+  border: 2px solid rgba(0, 147, 196, 1.0);
 }
 .ko-fi:hover {
-  background-color: #70DAFD;
+  background-color: rgba(112, 218, 253, 1.0),
 }
 .discord {
   background-color: rgba(88, 99, 242, 1.0);
