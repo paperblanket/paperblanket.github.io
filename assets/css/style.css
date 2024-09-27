@@ -91,39 +91,39 @@ hr {
   background-color: rgba(240, 80, 99, 1.0);
 }
 .ko-fi {
-  background-color: #FBAA19;
-  border: 2px solid #A26800;
+  background-color: rgba(251, 170, 25, 1.0);
+  border: 2px solid rgba(162, 104, 0, 1.0);
 }
 .ko-fi:hover {
-  background-color: #FFBD47;
+  background-color: rgba(255, 189, 71, 1.0);
 }
 .tumblr {
-  background-color: #35465C;
-  border: 2px solid #112339;
+  background-color: rgba(53, 70, 92, 1.0);
+  border: 2px solid rgba(17, 35, 57, 1.0);
 }
 .tumblr:hover {
-  background-color: #4B5D74;
+  background-color: rgba(75, 93, 116, 1.0);
 }
 .telegram {
-  background-color: #0088CC;
-  border: 2px solid #005076;
+  background-color: rgba(0, 137, 204, 1.0);
+  border: 2px solid rgba(0, 80, 118, 1.0);
 }
 .telegram:hover {
-  background-color: #04ADFF;
+  background-color: rgba(4, 173, 255, 1.0);
 }
 .deviantart {
-  background-color: #05cc47;
-  border: 2px solid #00842D;
+  background-color: rgba(5, 204, 72, 1.0);
+  border: 2px solid rgba(0, 132, 45, 1.0);
 }
 .deviantart:hover {
-  background-color: #2ED165;
+  background-color: rgba(46, 209, 101, 1.0);
 }
 .mastodon {
-  background-color: #563ACC;
-  border: 2px solid #290F94;
+  background-color: rgba(87, 58, 204, 1.0);
+  border: 2px solid rgba(41, 15, 148, 1.0):
 }
 .mastodon:hover {
-  background-color: #735AD7;
+  background-color: rgba(115, 90, 215, 1.0);
 }
 .bluesky {
   background-color: #0085FF;
