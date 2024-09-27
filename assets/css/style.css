@@ -126,18 +126,18 @@ hr {
   background-color: rgba(115, 90, 215, 1.0);
 }
 .bluesky {
-  background-color: #0085FF;
-  border: 2px solid #005FB5;
+  background-color: rgba(0, 134, 255, 1.0);
+  border: 2px solid rgba(0, 95, 181, 1.0);
 }
 .bluesky:hover {
-  background-color: #389FFC;
+  background-color: rgba(56, 159, 252, 1.0);
 }
 .buymeacoffee {
-  background-color: #D6AC19;
-  border: 2px solid #826500;
+  background-color: rgba(214, 172, 25, 1.0);
+  border: 2px solid rgba(130, 101, 0, 1.0);
 }
 .buymeacoffee:hover {
-  background-color: #AB8709;
+  background-color: rgba(255, 223, 113, 1.0);
 }
 .tiktok {
   background-color: #25F4EE;
