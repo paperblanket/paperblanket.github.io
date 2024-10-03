@@ -158,19 +158,26 @@ hr {
   border: 2px solid rgba(22, 37, 223, 1.0);
 }
 .discord:hover {
-  background-color: rgba(124, 133, 246, 2.0);
+  background-color: rgba(124, 133, 246, 1.0);
 }
 .facebook {
   background-color: rgba(24, 119, 242, 1.0);
   border: 2px solid rgba(4, 74, 165, 1.0);
 }
 .facebook:hover {
-  background-color: rgba(109, 168, 243, 2.0);
+  background-color: rgba(109, 168, 243, 1.0);
 }
 .reddit {
   background-color: rgba(255, 69, 0, 1.0);
   border: 2px solid rgba(155, 42, 0, 1.0);
 }
 .reddit:hover {
-  background-color: rgba(255, 142, 100, 2.0);
+  background-color: rgba(255, 142, 100, 1.0);
+}
+.threads {
+  background-color: rgba(0,0,0, 1.0);
+  border: 2px solid rgba(121, 121, 121, 1.0);
+}
+.threads:hover {
+  background-color: rgba(70, 70, 70, 1.0);
 }
