@@ -160,3 +160,10 @@ hr {
 .discord:hover {
   background-color: rgba(124, 133, 246, 2.0);
 }
+.facebook {
+  background-color: rgba(24, 119, 242, 1.0);
+  border: 2px solid rgba(4, 74, 165, 1.0);
+}
+.facebook:hover {
+  background-color: rgba(109, 168, 243, 2.0);
+}
