@@ -167,3 +167,10 @@ hr {
 .facebook:hover {
   background-color: rgba(109, 168, 243, 2.0);
 }
+.reddit {
+  background-color: rgba(255, 69, 0, 1.0);
+  border: 2px solid rgba(155, 42, 0, 1.0);
+}
+.reddit:hover {
+  background-color: rgba(255, 142, 100, 2.0);
+}
