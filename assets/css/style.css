@@ -1,183 +1,184 @@
 body {
-  background: #1D2025;
-  color: #fff;
-  font-family: 'Open Sans', sans-serif;
-  font-size: 15px;
-  letter-spacing: 2px;
-  text-align: center;
-}
-hr {
-  max-width: 250px;
-  height: 1px;
-  margin: auto;
-  background-color: #fff;
-  border: 0px;
-}
-.pic {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  height: auto;
-  max-width: 150px;
-  border-radius: 50%;
-  padding: 5px;
-}
-.name {
-  max-width: 500px;
-  margin: auto;
-  padding: 5px;
-}
-.description {
-  max-width: 500px;
-  margin: auto;
-  padding: 5px;
-}
-
-.contact {
-  text-decoration: none;
-  font-size: 12px
-}
-
-.buttons_div {
-  max-width: 500px;
-  margin: auto;
-}
-.buttons {
-  border-width: 2px;
-  border-radius: 15px;
-  max-width: 500px;
-  color: white;
-  margin-top: 10px;
-  padding: 15px;
-  text-align: center;
-  text-decoration: none;
-  font-size: 20px;
-  width: auto;
-  display: block;
-}
-.instagram {
-  background-color: rgba(193, 53, 132, 1.0);
-  border: 2px solid rgba(137, 8, 81, 1.0);
-}
-.instagram:hover {
-  background-color: rgba(60, 61, 55, 1.0);
-}
-.x {
-  background-color: rgba(29, 163, 242, 1.0);
-  border: 2px solid rgba(3, 110, 174, 1.0);
-}
-.x:hover {
-  background-color: rgba(115, 196, 244, 1.0);
-}
-.youtube {
-  background-color: rgba(255, 51, 51, 1.0);
-  border: 2px solid rgba(178, 0, 0, 1.0);
-}
-.youtube:hover {
-  background-color: rgba(255, 130, 130, 1.0);
-}
-.patreon {
-  background-color: rgba(249, 103, 84, 1.0);
-  border: 2px solid rgba(184, 38, 19, 1.0);
-}
-.patreon:hover {
-  background-color: rgba(255, 175, 164, 1.0)
-}
-.pinterest {
-  background-color: rgb(189, 8, 29, 1.0);
-  border: 2px solid rgba(115, 0, 13, 1.0);
-}
-.pinterest:hover {
-  background-color: rgba(240, 80, 99, 1.0);
-}
-.ko-fi {
-  background-color: rgba(251, 170, 25, 1.0);
-  border: 2px solid rgba(162, 104, 0, 1.0);
-}
-.ko-fi:hover {
-  background-color: rgba(255, 189, 71, 1.0);
-}
-.tumblr {
-  background-color: rgba(53, 70, 92, 1.0);
-  border: 2px solid rgba(17, 35, 57, 1.0);
-}
-.tumblr:hover {
-  background-color: rgba(75, 93, 116, 1.0);
-}
-.telegram {
-  background-color: rgba(0, 137, 204, 1.0);
-  border: 2px solid rgba(0, 80, 118, 1.0);
-}
-.telegram:hover {
-  background-color: rgba(4, 173, 255, 1.0);
-}
-.deviantart {
-  background-color: rgba(5, 204, 72, 1.0);
-  border: 2px solid rgba(0, 132, 45, 1.0);
-}
-.deviantart:hover {
-  background-color: rgba(46, 209, 101, 1.0);
-}
-.mastodon {
-  background-color: rgba(87, 58, 204, 1.0);
-  border: 2px solid rgba(41, 15, 148, 1.0):
-}
-.mastodon:hover {
-  background-color: rgba(115, 90, 215, 1.0);
-}
-.bluesky {
-  background-color: rgba(0, 134, 255, 1.0);
-  border: 2px solid rgba(0, 95, 181, 1.0);
-}
-.bluesky:hover {
-  background-color: rgba(56, 159, 252, 1.0);
-}
-.buymeacoffee {
-  background-color: rgba(214, 172, 25, 1.0);
-  border: 2px solid rgba(130, 101, 0, 1.0);
-}
-.buymeacoffee:hover {
-  background-color: rgba(255, 223, 113, 1.0);
-}
-.tiktok {
-  background-color: rgba(37, 244, 236, 1.0);
-  border: 2px solid rgba(0, 204, 196, 1.0);
-}
-.tiktok:hover {
-  background-color: rgba(130, 247, 243, 1.0);
-}
-.ko-fi {
-  background-color: rgba(19, 196, 255, 1.0);
-  border: 2px solid rgba(0, 147, 196, 1.0);
-}
-.ko-fi:hover {
-  background-color: rgba(112, 218, 253, 1.0),
-}
-.discord {
-  background-color: rgba(88, 99, 242, 1.0);
-  border: 2px solid rgba(22, 37, 223, 1.0);
-}
-.discord:hover {
-  background-color: rgba(124, 133, 246, 1.0);
-}
-.facebook {
-  background-color: rgba(24, 119, 242, 1.0);
-  border: 2px solid rgba(4, 74, 165, 1.0);
-}
-.facebook:hover {
-  background-color: rgba(109, 168, 243, 1.0);
-}
-.reddit {
-  background-color: rgba(255, 69, 0, 1.0);
-  border: 2px solid rgba(155, 42, 0, 1.0);
-}
-.reddit:hover {
-  background-color: rgba(255, 142, 100, 1.0);
-}
-.threads {
-  background-color: rgba(0,0,0, 1.0);
-  border: 2px solid rgba(121, 121, 121, 1.0);
-}
-.threads:hover {
-  background-color: rgba(70, 70, 70, 1.0);
-}
+    background: #1D2025;
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    letter-spacing: 2px;
+    text-align: center;
+  }
+  hr {
+    max-width: 250px;
+    height: 1px;
+    margin: auto;
+    background-color: #fff;
+    border: 0px;
+  }
+  .pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    max-width: 150px;
+    border-radius: 50%;
+    padding: 5px;
+  }
+  .name {
+    max-width: 500px;
+    margin: auto;
+    padding: 5px;
+  }
+  .description {
+    max-width: 500px;
+    margin: auto;
+    padding: 5px;
+  }
+  
+  .contact {
+    text-decoration: none;
+    font-size: 12px
+  }
+  
+  .buttons_div {
+    max-width: 500px;
+    margin: auto;
+  }
+  .buttons {
+    border-width: 2px;
+    border-radius: 15px;
+    max-width: 500px;
+    color: white;
+    margin-top: 10px;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    width: auto;
+    display: block;
+  }
+  .instagram {
+    background-color: rgba(193, 53, 132, 1.0);
+    border: 2px solid rgba(137, 8, 81, 1.0);
+  }
+  .instagram:hover {
+    background-color: rgba(60, 61, 55, 1.0);
+  }
+  .x {
+    background-color: rgba(29, 163, 242, 1.0);
+    border: 2px solid rgba(3, 110, 174, 1.0);
+  }
+  .x:hover {
+    background-color: rgba(115, 196, 244, 1.0);
+  }
+  .youtube {
+    background-color: rgba(255, 51, 51, 1.0);
+    border: 2px solid rgba(255, 88, 88, 1.0);
+  }
+  .youtube:hover {
+    background-color: rgba(255, 88, 88, 1.0);
+  }
+  .patreon {
+    background-color: rgba(249, 103, 84, 1.0);
+    border: 2px solid rgba(184, 38, 19, 1.0);
+  }
+  .patreon:hover {
+    background-color: rgba(255, 175, 164, 1.0)
+  }
+  .pinterest {
+    background-color: rgb(189, 8, 29, 1.0);
+    border: 2px solid rgba(115, 0, 13, 1.0);
+  }
+  .pinterest:hover {
+    background-color: rgba(240, 80, 99, 1.0);
+  }
+  .ko-fi {
+    background-color: rgba(251, 170, 25, 1.0);
+    border: 2px solid rgba(162, 104, 0, 1.0);
+  }
+  .ko-fi:hover {
+    background-color: rgba(255, 189, 71, 1.0);
+  }
+  .tumblr {
+    background-color: rgba(53, 70, 92, 1.0);
+    border: 2px solid rgba(17, 35, 57, 1.0);
+  }
+  .tumblr:hover {
+    background-color: rgba(75, 93, 116, 1.0);
+  }
+  .telegram {
+    background-color: rgba(0, 137, 204, 1.0);
+    border: 2px solid rgba(0, 80, 118, 1.0);
+  }
+  .telegram:hover {
+    background-color: rgba(4, 173, 255, 1.0);
+  }
+  .deviantart {
+    background-color: rgba(5, 204, 72, 1.0);
+    border: 2px solid rgba(0, 132, 45, 1.0);
+  }
+  .deviantart:hover {
+    background-color: rgba(46, 209, 101, 1.0);
+  }
+  .mastodon {
+    background-color: rgba(87, 58, 204, 1.0);
+    border: 2px solid rgba(41, 15, 148, 1.0):
+  }
+  .mastodon:hover {
+    background-color: rgba(115, 90, 215, 1.0);
+  }
+  .bluesky {
+    background-color: rgba(0, 134, 255, 1.0);
+    border: 2px solid rgba(0, 95, 181, 1.0);
+  }
+  .bluesky:hover {
+    background-color: rgba(56, 159, 252, 1.0);
+  }
+  .buymeacoffee {
+    background-color: rgba(214, 172, 25, 1.0);
+    border: 2px solid rgba(130, 101, 0, 1.0);
+  }
+  .buymeacoffee:hover {
+    background-color: rgba(255, 223, 113, 1.0);
+  }
+  .tiktok {
+    background-color: rgba(37, 244, 236, 1.0);
+    border: 2px solid rgba(0, 204, 196, 1.0);
+  }
+  .tiktok:hover {
+    background-color: rgba(130, 247, 243, 1.0);
+  }
+  .ko-fi {
+    background-color: rgba(19, 196, 255, 1.0);
+    border: 2px solid rgba(0, 147, 196, 1.0);
+  }
+  .ko-fi:hover {
+    background-color: rgba(112, 218, 253, 1.0),
+  }
+  .discord {
+    background-color: rgba(88, 99, 242, 1.0);
+    border: 2px solid rgba(22, 37, 223, 1.0);
+  }
+  .discord:hover {
+    background-color: rgba(124, 133, 246, 1.0);
+  }
+  .facebook {
+    background-color: rgba(24, 119, 242, 1.0);
+    border: 2px solid rgba(4, 74, 165, 1.0);
+  }
+  .facebook:hover {
+    background-color: rgba(109, 168, 243, 1.0);
+  }
+  .reddit {
+    background-color: rgba(255, 69, 0, 1.0);
+    border: 2px solid rgba(155, 42, 0, 1.0);
+  }
+  .reddit:hover {
+    background-color: rgba(255, 142, 100, 1.0);
+  }
+  .threads {
+    background-color: rgba(0,0,0, 1.0);
+    border: 2px solid rgba(121, 121, 121, 1.0);
+  }
+  .threads:hover {
+    background-color: rgba(70, 70, 70, 1.0);
+  }
+  
